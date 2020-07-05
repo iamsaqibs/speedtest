@@ -1,0 +1,14 @@
+{
+  "name": "speedtest",
+  "version": "1.0.0",
+  "description": "A simple speed test app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saqib S.",
+  "license": "ISC",
+  "dependencies": {
+    "speedtest-net": "^2.1.1"
+  }
+}
