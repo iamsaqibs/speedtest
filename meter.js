@@ -12,7 +12,7 @@ function app() {
                 ],
                 spd = 0;
 
-            // download bandwith
+            // download bandwith idr is variable mein bandwidth aye gi
 
             arrowSpd = 70;
 
