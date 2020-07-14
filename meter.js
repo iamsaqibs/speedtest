@@ -5,14 +5,10 @@ function app() {
         charsEachSec = [],
         getSPD = () => {
             let arrow = document.querySelector(".arrow"),
-                display = [
-                    document.getElementById("h"),
-                    document.getElementById("t"),
-                    document.getElementById("o"),
-                ],
+               
                 spd = 0;
 
-            // download bandwith idr is variable mein bandwidth aye gi
+            // download bandwith
 
             arrowSpd = 70;
 
